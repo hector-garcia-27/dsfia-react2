@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(45deg, rgb(149, 238, 149), rgb(251, 251, 165));
+}
+
+#root{
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 35px;
+    border-color: linear-gradient(45deg, rgb(149, 238, 149), rgb(251, 251, 165));
+}
+
+img{
+    width: 40px;
+}
+
+.registro{
+    height: 85vh;
+}
